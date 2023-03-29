@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar div {
+    min-height: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar li a {
+    font-size: 24px;
+}
+
+.hero-bg {
+    color: white;
+    height: 600px;
+    background-image: url("../img/bg-hero.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+.btn-primary {
+    background-color: #17A2B8;
+    border: 0;
+}
+
+.btn-outline-info {
+    color: white;
+    border-color: #17A2B8;
+}
+
+.color-primary {
+    background-color: #17A2B8;
+    color: white;
+}
+
+.card-body p,
+h5 {
+    color: black;
+}
+
+.btn-outline-primary {
+    color: #56C0E0;
+    border-color: #56C0E0;
+}
+
+.field-height {
+    height: 150px;
+}
+
+footer {
+    background-color: #0F0F0F;
+    color: white;
+}
