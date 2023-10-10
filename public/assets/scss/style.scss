@@ -1,7 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
-}
+@use "reset";
+@use "scroll-style";
+
 
 html body {
     font-family: 'Raleway', sans-serif;

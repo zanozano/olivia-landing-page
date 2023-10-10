@@ -1,0 +1,31 @@
+{
+  "name": "02-olivia-landing-page",
+  "version": "2.0.0",
+  "description": "Olivia es una elegante plataforma web que muestra una variedad de productos y un portafolio impresionante",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass --watch public/assets/scss/style.scss:public/assets/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanozano/olivia-landing-page.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "scss",
+    "javascrupt",
+    "landing",
+    "page"
+  ],
+  "author": "Cristobal Manzano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanozano/olivia-landing-page/issues"
+  },
+  "homepage": "https://github.com/zanozano/olivia-landing-page#readme",
+  "dependencies": {
+    "scss": "^0.2.4"
+  }
+}
